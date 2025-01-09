@@ -41,18 +41,6 @@ This research investigates the relationship between globalisation and food secur
 - Combined graphs using Stata's graph combine
 - Cross-sectional comparisons
 
-## Repository Structure
-```
-├── data/
-│   ├── processed/    # Cleaned and transformed datasets
-│   └── raw/          # Original data files
-├── code/
-│   ├── analysis.do   # Main Stata analysis script
-├── output/
-│   └── tables/       # Statistical results and tables
-└── docs/            # Documentation and paper
-```
-
 ## Variables Used
 - Dependent Variable: Food Security Index (GFSI)
 - Independent Variables:
