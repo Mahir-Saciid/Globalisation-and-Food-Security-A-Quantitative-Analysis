@@ -12,7 +12,8 @@ This research investigates the relationship between globalisation and food secur
   - Stable countries: coefficient 0.578
   - Unstable countries: coefficient 0.273
 
-![image](https://github.com/user-attachments/assets/79027883-0cc4-4ebf-a745-42479a8d0295)
+  ![image](https://github.com/user-attachments/assets/e9cb0d8a-a3c2-4169-9fb9-262f779b5772)
+
 
 ## Technical Skills Demonstrated
 ### Data Analysis
